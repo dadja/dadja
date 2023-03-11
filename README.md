@@ -1,8 +1,9 @@
-..### Hi there 👋 my name is Dadja 
- ### Welcome to my Gifhub Profil.
+### Hi guys 👋 my name is Dadja Matiasso BASSOU
+ ### Welcome to my Gifhub
  
  
-i am a software engineer enjotying building mobiel applications and games
+i am a software engineer enjotying building mobiel applications and games.
+
 - Already touched these programming languages and frameworks SDKS : Kotlin,Dart,Flutter,javascript,typescript,php,laravel,C++,C 
 - Im' eager to learn new things
 - Interested in collaborate in Open Source Projects
@@ -20,11 +21,9 @@ i am a software engineer enjotying building mobiel applications and games
 - 🌱 Would like to become an OSS engineer if you know here to start please ping me .
 - 👯 I’m looking to collaborate on Open Source projects linked to games and or mobile
 - 🤔 I’m looking for help with some game concepts understanding , imnage and audio manipulations ...
-- 🤔 mainly try to understand how to program rythmn games .. 
-- 💬 Ask me about ...
+- 🤔 Trying to understand how to program rythmn games and build my own .. 
 - 📫 How to reach me: bassoudadja@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
 
 
 
