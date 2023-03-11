@@ -3,12 +3,15 @@
  
  
 i am a software engineer enjotying building mobiel applications and games
-- Kotlin,Dart,Flutter ,javascript ,typescript,php,laravel are my current stack..
+- Already touched these programming languages and frameworks SDKS : Kotlin,Dart,Flutter,javascript,typescript,php,laravel,C++,C 
 - Im' eager to learn new things
 - Interested in collaborate in Open Source Projects
 - Have some time ? lets discuss data structures,design patterns,Game patterns,Game concepts like procedural map generation and more , Shaders(still learning) , Math for Games 
 - Would like to build my own game engine but as there is already plenty i don't know if that's relevant
 
+## MAin Stack:
+
+ - Flutter ,Android , currently new to IOS...
 
 
 Here are some ideas to get you started:
