@@ -9,12 +9,11 @@ i am a software engineer enjotying building mobiel applications and games
 - Have some time ? lets discuss data structures,design patterns,Game patterns,Game concepts like procedural map generation and more , Shaders(still learning) , Math for Games 
 - Would like to build my own game engine but as there is already plenty i don't know if that's relevant
 
-## MAin Stack:
+## Main Stack
 
- - Flutter ,Android , currently new to IOS...
+- Flutter ,Android , currently new to IOS...
 
-
-Here are some ideas to get you started:
+### Know me more
 
 - 🔭 I’m currently working officially for a company where we building an ecosystem to ease life on entrepreneurs in general ; on the dark side working on on a MedTech app and a Game.
 - 🌱 I’m currently learning Design Patterns, Game Patterns , Shaders , Mathe for ame devs , Data Structures... 
